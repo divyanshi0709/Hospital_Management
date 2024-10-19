@@ -1,0 +1,19 @@
+combonametab Combobox
+txtdis
+txtref
+txtpatname
+txtdob
+txtadd
+txtissue
+txtexpdate
+txtsideeff
+txtbloodpress
+txtpatid
+txtnotab
+txtdailydos
+txtfurtherinfo
+txtmed
+txtNHS
+txtnum
+txtbloodgrp
+prec Text
